@@ -45,19 +45,6 @@
     color: rgb(192, 81, 12);
 }
 
-
-/*.container .projekt {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-
-}
-
-.container .projekt .galleri {
-    display: flex;
-    flex-direction: column;
-    flex: 1;
-}*/
 .container .projekt{
     display: flex;
     flex-wrap: wrap;
