@@ -46,7 +46,7 @@
 }
 
 
-.container .projekt {
+/*.container .projekt {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -57,7 +57,15 @@
     display: flex;
     flex-direction: column;
     flex: 1;
+}*/
+.container .projekt{
+    display: flex;
+    flex-wrap: wrap;
 }
+.container .projekt .galleri{
+    flex: 1 1 15em;
+}
+
 
 
 .container .projekt .galleri img {
